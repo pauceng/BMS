@@ -43,7 +43,7 @@
 |33.| Çoğrafi Bilgi Sistemleri: | |
 |34.| Görüntü: | x |
 |35.| Bilgisayar Grafikleri: | x |
-|36.| Ekran Kartları: | |
+|36.| Ekran Kartları: | x |
 |37.| Gömülü Sistemler: | x |
 |38.| Dağıtık Sistemler: | |
 |39.| Robotik: | |
