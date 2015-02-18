@@ -28,7 +28,7 @@
 |18.| İnternet arama motorları: | x |
 |19.| VoIP(Voice over IP): | |
 |20 | Elektronik Ticaret: | x |
-|21.| Bilgisayar Hukuku: | |
+|21.| Bilgisayar Hukuku: | x |
 |22.| Bilgisayar Virusları: | x |
 |23.| Viruslara karşı güvenlik önlemleri: | |
 |24.| Bilgisayar Programlama Dilleri: | x |

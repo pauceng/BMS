@@ -1,4 +1,4 @@
-ADI,Soyadı,Konu
+ADI,Soyadı,Konu ( code )
 Eren,Özata,
 İbrahim Halil, Bostancı,
 Osman,Güneş,
@@ -34,7 +34,7 @@ Abdullah,Taşgöz,17
 Ali Kubilay,Tosun,24
 Tolga,Turgut,11
 Doğan Can,Uludağ,20
-Berna,Yağan,
+Berna,Yağan,21
 Yener,Yıldız,9
 Sezen,Yorgancılar,28
 Mert Kazım,İşler,
