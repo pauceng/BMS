@@ -47,7 +47,7 @@
 |37.| Gömülü Sistemler: | |
 |38.| Dağıtık Sistemler: | |
 |39.| Robotik: | |
-|40.| Bulut Bilişim: | |
+|40.| Bulut Bilişim: | x |
 |41.| Paralel Programlama: | x |
 |42.| Yönetim Bilişim Sistemleri: | |
 |43.| Yazılım Mühendisliği: | |
