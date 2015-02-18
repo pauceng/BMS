@@ -4,7 +4,7 @@
         						      BİLGİSAYAR MÜHENDİSLİĞİ SEMİNERLERİ DERSİ
 
 ## Proje Konuları
->  X Drumunda proje başkası tarafından alınmıştır.
+>  X Drumunda proje başkası tarafından alınmıştır. Proje konularının detaylı acıklamaları [buradan](https://github.com/PAU-Projects/BMS/tree/master/Liste/img) ulaşabilirsiniz.
 
 |Code|Konu|Drum|
 | -------- | -------- |:-----:|
