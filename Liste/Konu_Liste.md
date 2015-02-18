@@ -44,7 +44,7 @@
 |34.| Görüntü: | x |
 |35.| Bilgisayar Grafikleri: | x |
 |36.| Ekran Kartları: | |
-|37.| Gömülü Sistemler: | |
+|37.| Gömülü Sistemler: | x |
 |38.| Dağıtık Sistemler: | |
 |39.| Robotik: | |
 |40.| Bulut Bilişim: | x |
