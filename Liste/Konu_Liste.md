@@ -53,4 +53,3 @@
 |43.| Yazılım Mühendisliği: | |
 |44.| Proje Yönetimi: | |
 |45.| Biçimsel Diller ve Otomata Teorisi: | |
-
