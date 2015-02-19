@@ -13,7 +13,7 @@
 |3. |Bilgisayar Oyunları: |x|
 |4. |BIOS : | x |
 |5. |Bilgi Depolama birimleri: | x |
-|6. |Mikroişlemciler: | |
+|6. |Mikroişlemciler: | x |
 |7. |Anakart: | |
 |8. |Bellek: | x |
 |9. |Modem:  | x |
@@ -23,7 +23,7 @@
 |13.| Bilgisayar Ağları: | x |
 |14.| Linux: | x |
 |15.| Bilgisayar Haberleşmesi: | |
-|16.| Kablosuz Haberleşme: | |
+|16.| Kablosuz Haberleşme: | x |
 |17.| İnternet: | x |
 |18.| İnternet arama motorları: | x |
 |19.| VoIP(Voice over IP): | |
