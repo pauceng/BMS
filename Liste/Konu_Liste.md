@@ -46,7 +46,7 @@
 |36.| Ekran Kartları: | x |
 |37.| Gömülü Sistemler: | x |
 |38.| Dağıtık Sistemler: | |
-|39.| Robotik: | |
+|39.| Robotik: | x |
 |40.| Bulut Bilişim: | x |
 |41.| Paralel Programlama: | x |
 |42.| Yönetim Bilişim Sistemleri: | |
