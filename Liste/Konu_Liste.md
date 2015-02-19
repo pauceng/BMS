@@ -40,7 +40,7 @@
 |30.| Yapay Zeka, Sibernetik | x |
 |31.| Bulanık mantık: | |
 |32.| Yapay sinir Ağları: | |
-|33.| Çoğrafi Bilgi Sistemleri: | |
+|33.| Çoğrafi Bilgi Sistemleri: | x |
 |34.| Görüntü: | x |
 |35.| Bilgisayar Grafikleri: | x |
 |36.| Ekran Kartları: | x |
