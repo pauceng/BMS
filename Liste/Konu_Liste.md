@@ -34,7 +34,7 @@
 |24.| Bilgisayar Programlama Dilleri: | x |
 |25.| Veritabanı: | x |
 |26.| Bilgisayarın üretimde kullanılması: | |
-|27.| Biyometrik tanıma sistemleri: | |
+|27.| Biyometrik tanıma sistemleri: | x |
 |28.| Bilgi Güvenliği: | x |
 |29.| Akıllıkart: | |
 |30.| Yapay Zeka, Sibernetik | x |
