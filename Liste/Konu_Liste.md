@@ -50,6 +50,6 @@
 |40.| Bulut Bilişim: | x |
 |41.| Paralel Programlama: | x |
 |42.| Yönetim Bilişim Sistemleri: | |
-|43.| Yazılım Mühendisliği: | |
+|43.| Yazılım Mühendisliği: | x |
 |44.| Proje Yönetimi: | |
 |45.| Biçimsel Diller ve Otomata Teorisi: | |
