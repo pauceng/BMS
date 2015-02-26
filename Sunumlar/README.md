@@ -1,5 +1,4 @@
-PAU Bilgisayar Mühendisliği Seminerleri 'dersi sunum listesi.
-=======
+### PAU Bilgisayar Mühendisliği Seminerleri 'dersi sunum listesi.
 
 > Konu başlığına tıklayarak Sunumlara ulaşa bilirsiniz.
 
