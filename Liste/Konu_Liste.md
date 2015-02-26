@@ -36,20 +36,20 @@
 |26.| Bilgisayarın üretimde kullanılması: | |
 |27.| Biyometrik tanıma sistemleri: | x |
 |28.| Bilgi Güvenliği: | x |
-|29.| Akıllıkart: | |
+|29.| Akıllıkart: | x |
 |30.| Yapay Zeka, Sibernetik | x |
 |31.| Bulanık mantık: | |
-|32.| Yapay sinir Ağları: | |
+|32.| Yapay sinir Ağları: | x |
 |33.| Çoğrafi Bilgi Sistemleri: | x |
 |34.| Görüntü: | x |
 |35.| Bilgisayar Grafikleri: | x |
 |36.| Ekran Kartları: | x |
 |37.| Gömülü Sistemler: | x |
-|38.| Dağıtık Sistemler: | |
+|38.| Dağıtık Sistemler: | x |
 |39.| Robotik: | x |
 |40.| Bulut Bilişim: | x |
 |41.| Paralel Programlama: | x |
-|42.| Yönetim Bilişim Sistemleri: | |
+|42.| Yönetim Bilişim Sistemleri: | x |
 |43.| Yazılım Mühendisliği: | x |
 |44.| Proje Yönetimi: | |
 |45.| Biçimsel Diller ve Otomata Teorisi: | |
